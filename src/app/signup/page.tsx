@@ -4,6 +4,7 @@ const page = () => {
   return (
     <div>
       Sign up page
+      valomoto korte hbe
     </div>
   )
 }
